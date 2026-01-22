@@ -4,9 +4,9 @@ Curso realizado na [DIO](https://www.dio.me/)
 
 ---
 
-## 📌 ETL de Leitos Hospitalares COVID-19
+## 📌 ETL de Assistencia a Saude - Hospitais e Leitos
 
-Este projeto implementa um pipeline **ETL (Extract, Transform, Load)** para coletar dados da **API de Dados Abertos do Ministério da Saúde** sobre ocupação hospitalar de leitos em estabelecimentos de saúde durante a pandemia de COVID-19.
+Este projeto implementa um pipeline **ETL (Extract, Transform, Load)** para coletar dados da **API de Dados Abertos do Ministério da Saúde** sobre ocupação hospitalar de leitos em estabelecimentos de saúde do Brasil
 
 ---
 
