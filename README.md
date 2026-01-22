@@ -4,13 +4,13 @@ Curso realizado na [DIO](https://www.dio.me/)
 
 ---
 
-## 📌 ETL de Assistencia a Saude - Hospitais e Leitos
+## ETL de Assistencia a Saude - Hospitais e Leitos
 
 Este projeto implementa um pipeline **ETL (Extract, Transform, Load)** para coletar dados da **API de Dados Abertos do Ministério da Saúde** sobre ocupação hospitalar de leitos em estabelecimentos de saúde do Brasil
 
 ---
 
-## 🚀 Passo a passo
+## Passo a passo
 
 ### 1. Extração
 - Utiliza a biblioteca `requests` para acessar a API.
@@ -26,20 +26,20 @@ Este projeto implementa um pipeline **ETL (Extract, Transform, Load)** para cole
 
 ---
 
-## 📂 Estrutura do projeto
+## Estrutura do projeto
 - `desafio-santander-etl-python.ipynb` → Notebook com todo o passo a passo.
 - `README.md` → Documentação do projeto.
 
 ---
 
-## 🛠️ Tecnologias utilizadas
+## Tecnologias utilizadas
 - Python 3
 - Pandas
 - Requests
 
 ---
 
-## 📊 Exemplo de saída
+## Exemplo de saída
 
 | ds_regiao | sg_unidade_federacao | ds_municipio | nm_hospital | qt_leitos_hospitalares | qt_leitos_sus | tx_leitos |
 |-----------|-----------------------|--------------|-------------|------------------------|---------------|-----------|
