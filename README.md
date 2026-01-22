@@ -29,7 +29,6 @@ Este projeto implementa um pipeline **ETL (Extract, Transform, Load)** para cole
 ## 📂 Estrutura do projeto
 - `desafio-santander-etl-python.ipynb` → Notebook com todo o passo a passo.
 - `README.md` → Documentação do projeto.
-- `leitos_hospitalares.csv` → Arquivo final gerado (opcional).
 
 ---
 
@@ -45,11 +44,4 @@ Este projeto implementa um pipeline **ETL (Extract, Transform, Load)** para cole
 | ds_regiao | sg_unidade_federacao | ds_municipio | nm_hospital | qt_leitos_hospitalares | qt_leitos_sus | tx_leitos |
 |-----------|-----------------------|--------------|-------------|------------------------|---------------|-----------|
 | Sudeste   | MG                    | Paraguaçu    | Hospital X  | 100                    | 80            | 80.00%    |
-
----
-
-## ▶️ Como executar
-1. Clone este repositório:
-   ```bash
-   git clone https://github.com/seuusuario/desafio-santander-etl-python.git
 
